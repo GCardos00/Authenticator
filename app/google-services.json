@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232837757479",
+    "project_id": "authenticator-63db9",
+    "storage_bucket": "authenticator-63db9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232837757479:android:4b82e9ed115ea5044eec02",
+        "android_client_info": {
+          "package_name": "com.example.authenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232837757479-t1i92mf0dofnv5lj2tlgp5ad2rbg137e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0VJO-dNsDBadaBiwyvpJfcYopPLKPBdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232837757479-t1i92mf0dofnv5lj2tlgp5ad2rbg137e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
